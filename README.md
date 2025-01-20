@@ -1,1 +1,6 @@
 # cc_lab3
+NAME: VEDIKA GOWDA
+<br>
+SRN: PES1UG22AM187
+<br>
+AIML: C 
